@@ -1,2 +1,3 @@
-# simnibs-coils
+# SimNIBS Coils
+
 Extra coil models for SimNIBS
